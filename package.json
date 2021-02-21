@@ -1,0 +1,14 @@
+{
+  "name": "github-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "init": "git init && git remote add origin https://github.com/djm2x/gitgub-page.git",
+    "push": "git add . && git commit -m \"me & you\" && git push -u origin master",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
